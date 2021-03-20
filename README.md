@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute and build more projects
 - ⚡ Hobby: I love to play cricket and video games
 
----
+
 ### Connect with me:
 
 [<img align="left" alt="sheikhbayazid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
