@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi👋
 
-<!--
-**sheikhbayazid/sheikhbayazid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is Sheikh Bayazid, I am a student and an iOS dev based in Bangladesh🇧🇩
 
-Here are some ideas to get you started:
+- 🔭 Learning iOS development
+- 🌱 Currently learning SwiftUI
+- 👨‍💻 Looking to work as an iOS developer
+- 🥅 2021 Goals: Contribute and build more projects
+- ⚡ Hobby: I love to play cricket and video games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Connect with me:
+
+[<img align="left" alt="sheikhbayazid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sheikhbayazid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sheikhbayazid | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
+[twitter]: https://twitter.com/sheikhbayazid
+[instagram]: https://www.instagram.com/sheikhbayazid
+[linkedin]: https://www.linkedin.com/in/sheikhbayazid
