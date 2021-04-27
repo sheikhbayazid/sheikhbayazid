@@ -1,12 +1,11 @@
 ## Hi there 👋
-
-### This is Sheikh Bayazid, I am a student and an iOS dev based in Bangladesh 🇧🇩
+### I am a CS student and an iOS dev based in Bangladesh 🇧🇩
 
 - 🔭 Learning iOS development
 - 🛠 Completed 100 Days of SwiftUI
 - 👨‍💻 Looking to work as an iOS developer
 - 🥅 2021 Goals: Contribute and build more projects
-- ⚡ Hobby: I love to play cricket and video games
+- ⚡ Hobby: Love explore new knowledge and technologies
 
 
 ### Connect with me:
@@ -17,5 +16,5 @@
 <br />
 
 [twitter]: https://twitter.com/sheikhbayazid
-[instagram]: https://www.instagram.com/sheikhbayazid
+[instagram]: https://www.instagram.com/highonswiftui
 [linkedin]: https://www.linkedin.com/in/sheikhbayazid
