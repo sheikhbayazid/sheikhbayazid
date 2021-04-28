@@ -1,5 +1,4 @@
-## Hi there 👋
-## I am a CS student and an iOS dev based in Bangladesh 🇧🇩
+## Hi there 👋, I am a CS student and an iOS dev based in Bangladesh 🇧🇩
 
 - 🔭 Learning iOS development
 - 🛠 Completed 100 Days of SwiftUI
