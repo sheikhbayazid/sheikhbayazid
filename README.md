@@ -2,9 +2,9 @@
 
 - 🔭 Learning iOS development
 - 🛠 Completed 100 Days of SwiftUI
-- 👨‍💻 Looking to work as an iOS developer
+- 👨‍💻 Looking forward to work as an iOS developer
 - 🥅 2021 Goals: Contribute and build more projects
-- ⚡ Hobby: Love explore new knowledge and technologies
+- ⚡ Hobby: Love explore & share new knowledges and technologies
 
 
 ### Connect with me:
