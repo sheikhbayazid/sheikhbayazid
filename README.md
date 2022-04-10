@@ -1,9 +1,8 @@
-## Hi there 👋, I am a CS student and an iOS dev based in Bangladesh 🇧🇩
+## Hi there 👋, I am an iOS dev based in Stockholm 🇧🇩
 
-- 🔭 Learning iOS development
-- 🛠 Completed 100 Days of SwiftUI
+- 🔭 Focusing on becoming a senior iOS developer
 - 👨‍💻 Improve my skills as an iOS developer
-- 🥅 2021 Goals: Contribute and build more projects
+- 🥅 2022 Goals: Contribute and build more projects
 - ⚡ Hobby: Love explore & share new knowledges and technologies
 
 
