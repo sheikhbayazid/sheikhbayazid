@@ -1,4 +1,4 @@
-## Hi there 👋, I am an iOS dev based in Stockholm 🇧🇩
+## Hi there 👋, I am an iOS dev based in Stockholm 🇸🇪
 
 - 🔭 Focusing on becoming a senior iOS developer
 - 👨‍💻 Improve my skills as an iOS developer
