@@ -1,8 +1,8 @@
 ## Hi there 👋, I am an iOS dev based in Stockholm 🇸🇪
 
 - 🔭 Focusing on becoming a senior iOS developer
-- 🥅 2022 Goals: Contribute and build more projects
-- ⚡ Hobby: Love explore & share new knowledges and technologies
+- 🥅 2022 Goals: Contribute and build amazing projects
+- ⚡ Hobby: Love explore & share new knowledge and technologies
 
 
 ### Connect with me:
